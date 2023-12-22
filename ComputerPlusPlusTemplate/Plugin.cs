@@ -29,7 +29,7 @@ namespace ZixedComputer
     {
         public string Title => "TEMPLATE";
 
-        public string Description => "Press [Option 1] to toggle between this room's";
+        public string Description => "Press [Option 1] to toggle between this room's properties";
 
         bool somethingHappened = false;
 
