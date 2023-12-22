@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WJMrtlFsP5NObpsanoiEEr8rbthRqDsZnQqkgOx2odPLhnXXyoGr3OMJdzul4iPxCkLp14ccZWXWOyAyKY3h0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zixed.ZIXEDDEV\\source\\repos\\ComputerPlusPlusTemplate\\ComputerPlusPlusTemplate\\ComputerPlusPlusTemplate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zixed.ZIXEDDEV\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\zixed.ZIXEDDEV\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

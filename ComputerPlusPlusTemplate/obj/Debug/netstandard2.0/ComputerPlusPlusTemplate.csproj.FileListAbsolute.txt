@@ -1,0 +1,5 @@
+C:\Users\zixed.ZIXEDDEV\source\repos\ComputerPlusPlusTemplate\ComputerPlusPlusTemplate\obj\Debug\netstandard2.0\ComputerPlusPlusTemplate.csproj.AssemblyReference.cache
+C:\Users\zixed.ZIXEDDEV\source\repos\ComputerPlusPlusTemplate\ComputerPlusPlusTemplate\obj\Debug\netstandard2.0\ComputerPlusPlusTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zixed.ZIXEDDEV\source\repos\ComputerPlusPlusTemplate\ComputerPlusPlusTemplate\obj\Debug\netstandard2.0\ComputerPlusPlusTemplate.AssemblyInfoInputs.cache
+C:\Users\zixed.ZIXEDDEV\source\repos\ComputerPlusPlusTemplate\ComputerPlusPlusTemplate\obj\Debug\netstandard2.0\ComputerPlusPlusTemplate.AssemblyInfo.cs
+C:\Users\zixed.ZIXEDDEV\source\repos\ComputerPlusPlusTemplate\ComputerPlusPlusTemplate\obj\Debug\netstandard2.0\ComputerPlusPlusTemplate.csproj.CoreCompileInputs.cache
